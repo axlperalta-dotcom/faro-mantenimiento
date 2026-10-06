@@ -1,0 +1,15 @@
+PLANTA NORTE FICTICIA · PT-310 · VERIFICACIÓN DE CIERRE
+Registro PT310-V01, 18/09/2026. Todas las mediciones son ficticias.
+
+1. LECTURAS DESPUÉS DE LA CORRECCIÓN
+09:00: referencia 2,00 bar; pantalla 2,00 bar; diferencia absoluta 0,00 bar.
+09:15: referencia 2,03 bar; pantalla 2,04 bar; diferencia absoluta 0,01 bar.
+09:30: referencia 1,99 bar; pantalla 2,00 bar; diferencia absoluta 0,01 bar.
+Las tres lecturas cumplen los dos criterios definidos en PT310-R01: referencia 1,80–2,20 bar y discrepancia máxima 0,05 bar. No hay recurrencia del aviso durante esta ventana de 30 minutos.
+
+2. CONCLUSIÓN REVISADA
+El aparente exceso observado estaba asociado al desplazamiento de +1,00 bar en la pantalla. La evidencia de configuración y el contraste antes/después sostienen esa explicación para este incidente. No se documentó un incremento físico de presión equivalente.
+La verificación se limita a la ventana observada; no prueba que nunca volverá a ocurrir un error de configuración. Se registró una tarea de mejora independiente para revisar cambios de parámetros.
+
+3. RESPONSABLE
+Equipo de capacitación de Planta Norte (ficticio). Cierre del ejercicio revisado el 18/09/2026, 09:45. La fecha de guardado que muestra la aplicación es la de carga del ejemplo, no la fecha del ensayo.

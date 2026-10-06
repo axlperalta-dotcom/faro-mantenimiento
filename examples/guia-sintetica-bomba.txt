@@ -1,0 +1,14 @@
+GUÍA DE PRÁCTICA · BOMBA BC-104
+Documento sintético creado para probar Faro. No es un manual del fabricante ni una instrucción de mantenimiento. Los valores y equipos descritos son ficticios.
+
+1. Registro de observaciones
+Ante un reporte de vibración, registrar equipo, fecha, régimen de operación, carga y punto de medición. Conservar el valor y la unidad. Distinguir el relato del operador de una medición instrumentada.
+
+2. Contexto para investigar
+Vibración, temperatura elevada y ruido pueden corresponder a múltiples mecanismos. La coincidencia de palabras con este documento no confirma ninguna causa. La investigación debe contrastar el historial y las fuentes técnicas aplicables al equipo real.
+
+3. Información faltante
+Este ejercicio requiere documentar temperatura de referencia, tendencia de vibración, presión de succión, cambios recientes e historial de intervenciones. Si faltan esos datos, registrar la incertidumbre.
+
+4. Cierre del caso
+Separar observaciones, hipótesis, evidencia y conclusión revisada por una persona. Documentar qué información permitió aceptar o descartar cada hipótesis. Este sistema no autoriza acciones sobre equipos.

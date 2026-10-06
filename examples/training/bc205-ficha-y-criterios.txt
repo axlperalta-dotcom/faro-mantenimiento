@@ -1,0 +1,15 @@
+PLANTA NORTE FICTICIA · BANCO DE RECIRCULACIÓN BC-205
+Documento BC205-F01, revisión 1. Datos y límites inventados exclusivamente para este ejercicio; no usar como especificaciones reales.
+
+1. CONFIGURACIÓN DEL ENSAYO
+Circuito de agua de capacitación, depósito D-205, bomba BC-205 y filtro F-205 en la línea de descarga. La presión diferencial es la diferencia entre las tomas antes y después del filtro, no la presión de succión de la bomba.
+Para comparar registros: velocidad 1450 rpm, válvula V-205 al 100 % de apertura, nivel del depósito 50 cm y temperatura del agua 22 °C. Los registros indican que estas cuatro condiciones se mantuvieron.
+
+2. CRITERIOS INTERNOS DEL EJERCICIO
+Caudal esperado: entre 40 y 44 L/min.
+Presión diferencial del filtro: máximo 15 kPa.
+Verificación posterior: tres lecturas separadas por 10 minutos dentro de ambos rangos, sin recurrencia del aviso de bajo caudal. Observar una recuperación aislada no completa esta verificación.
+Los instrumentos de este ejercicio se consideran verificados. No se dispone de análisis espectral ni de un estudio completo de incertidumbre; no deben inventarse.
+
+3. PREGUNTA PARA EL ANALISTA
+¿Qué explicación está mejor respaldada para el bajo caudal? Compara la condición inicial, los registros de intervención y la serie posterior. Menciona una explicación alternativa y qué parte del expediente la debilita, sin afirmar que se descartaron todas las causas posibles.

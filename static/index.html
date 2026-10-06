@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#152c31"><title>Faro · Mantenimiento</title>
+  <link rel="stylesheet" href="/style.css"><script defer src="/app.js"></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <a class="brand" href="/" aria-label="Faro inicio"><span class="brand-mark">f</span><span>faro<span class="brand-sub">MANTENIMIENTO</span></span></a>
+    <p class="nav-label">ESPACIO DE TRABAJO</p>
+    <a class="nav-item active" href="#incidents"><span>▦</span> Incidencias <span class="nav-dot"></span></a>
+    <div class="sidebar-note"><span class="small-label">DE LA OBSERVACIÓN<br>A LA EVIDENCIA.</span><p>Un espacio para documentar, investigar y aprender de cada caso.</p><div class="line-art" aria-hidden="true"><i></i><i></i><i></i></div></div>
+    <div class="local-status"><span></span> Entorno local <small>Primera entrega · v0.1</small></div>
+  </aside>
+  <main>
+    <header class="topbar"><span>Ingeniería / <strong>Investigación de fallas</strong></span><span class="workspace-tag">MI ESPACIO <span class="avatar">FM</span></span></header>
+    <section class="page-heading"><div><p class="eyebrow">BITÁCORA DE MANTENIMIENTO</p><h1>Cada falla, una investigación.</h1><p class="intro">Conecta observaciones, documentos y evidencia en un solo lugar.</p></div><button class="primary" id="new-incident">＋ Nueva incidencia</button></section>
+    <section class="metrics" aria-label="Resumen de incidencias">
+      <div><span>Casos registrados</span><strong id="count-total">—</strong><small>Historial de trabajo</small></div>
+      <div><span>En investigación</span><strong id="count-active">—</strong><small>Observaciones en revisión</small></div>
+      <div><span>Casos resueltos</span><strong id="count-closed">—</strong><small>Investigaciones completadas</small></div>
+      <div><span>Documentos adjuntos</span><strong id="count-docs">—</strong><small>Fuentes disponibles</small></div>
+    </section>
+    <div id="notice" class="notice" role="status" hidden></div>
+    <section class="workspace" id="incidents">
+      <div class="case-panel"><div class="panel-heading"><h2>Incidencias</h2><span id="list-count" class="counter">0</span></div>
+        <label class="visually-hidden" for="filter">Filtrar incidencias</label><input id="filter" class="filter" type="search" placeholder="Buscar por equipo o título…">
+        <label class="visually-hidden" for="status-filter">Filtrar por estado</label><select id="status-filter"><option value="">Todos los estados</option><option>Abierta</option><option>En investigación</option><option>Resuelta</option></select>
+        <div id="case-list" class="case-list" aria-label="Lista de incidencias"><p class="empty">Cargando incidencias…</p></div>
+      </div>
+      <article class="detail-panel" id="detail"><div class="empty hero-empty"><span>↗</span><h2>Tu próxima investigación empieza aquí.</h2><p>Crea una incidencia o selecciona un caso para revisar sus documentos.</p></div></article>
+    </section>
+    <footer><span>FARO / REGISTRA · INVESTIGA · DOCUMENTA</span><span>Búsqueda documental disponible · Asistente LLM pendiente</span></footer>
+  </main>
+  <dialog id="incident-dialog" aria-labelledby="dialog-title"><form id="incident-form"><div class="dialog-heading"><div><p class="eyebrow">NUEVO CASO</p><h2 id="dialog-title">Registra lo que observaste.</h2></div><button type="button" id="close-dialog" class="icon-button" aria-label="Cerrar">×</button></div>
+    <p class="muted">Empieza por los hechos. Las hipótesis se documentan durante la investigación.</p>
+    <label>Título de la incidencia<input name="title" required maxlength="160" placeholder="Ej. Ruido intermitente durante el arranque"></label>
+    <div class="form-grid"><label>Equipo o identificador<input name="equipment" required maxlength="120" placeholder="Ej. Bomba BC-104"></label><label>Prioridad<select name="priority"><option>Baja</option><option selected>Media</option><option>Alta</option></select></label></div>
+    <label>Síntomas observados<textarea name="symptoms" required maxlength="5000" rows="3" placeholder="Qué ocurrió, dónde y desde cuándo…"></textarea></label>
+    <label>Condiciones de operación <span class="optional">opcional</span><textarea name="conditions" maxlength="3000" rows="2" placeholder="Carga, temperatura, unidades y datos aún pendientes…"></textarea></label>
+    <p id="form-error" class="form-error" role="alert"></p><div class="dialog-actions"><button type="button" class="secondary" id="cancel-dialog">Cancelar</button><button type="submit" class="primary">Crear incidencia</button></div>
+  </form></dialog>
+</body>
+</html>

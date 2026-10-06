@@ -1,0 +1,11 @@
+PLANTA NORTE FICTICIA · PT-310 · AUDITORÍA DE CONFIGURACIÓN
+Registro PT310-C01. Ejemplo sintético de una discrepancia de datos.
+
+1. EVIDENCIA DE CONFIGURACIÓN
+La fórmula del canal era: lectura mostrada = lectura del transmisor + desplazamiento.
+La ficha de configuración ficticia aprobada indicaba desplazamiento 0,00 bar. El registro de la pantalla a las 08:25 indicaba desplazamiento +1,00 bar, conservado por error tras una prueba del día anterior.
+El valor del transmisor antes del desplazamiento era 2,02 bar y coincidía con la referencia 2,02 bar; el valor mostrado era 3,02 bar.
+
+2. ACCIÓN REGISTRADA
+18/09/2026, 08:40. El equipo ficticio de control restituyó el desplazamiento aprobado a 0,00 bar y registró la revisión de configuración. No cambió la consigna de presión ni sustituyó el transmisor.
+La repetición de la prueba posterior figura en PT310-V01. Este texto describe una simulación ya realizada; no instruye cambios en sistemas reales.

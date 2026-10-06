@@ -1,0 +1,13 @@
+PLANTA NORTE FICTICIA · PT-310 · REPORTE DE DISCREPANCIA
+Documento PT310-R01. Datos y criterios sintéticos, sin aplicación a equipos reales.
+
+1. REPORTE
+18/09/2026, 08:10. La pantalla del banco mostraba 3,00 bar; la referencia independiente indicaba 2,00 bar. Se abrió un reporte por aparente presión elevada.
+08:20: pantalla 3,02 bar; referencia 2,02 bar. No se había modificado la consigna del banco.
+La referencia se considera verificada dentro de la simulación.
+
+2. CRITERIO PREVIO DE ACEPTACIÓN
+Para este ejercicio, presión de referencia dentro de 1,80 a 2,20 bar y diferencia absoluta pantalla-referencia no mayor que 0,05 bar en tres lecturas separadas por 15 minutos después de la corrección.
+
+3. PREGUNTA DE INVESTIGACIÓN
+Separar un incremento físico de presión de un error en su representación. Un aviso en pantalla no permite por sí solo identificar cuál de los dos ocurrió.

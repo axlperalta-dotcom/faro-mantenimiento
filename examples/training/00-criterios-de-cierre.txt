@@ -1,0 +1,22 @@
+PLANTA NORTE · ENTORNO DE CAPACITACIÓN FICTICIO
+Documento CAP-01, revisión 1. Todos los equipos, personas, fechas, límites y mediciones de estos ejercicios son inventados. Son datos para practicar razonamiento y documentación, no especificaciones de equipos reales ni instrucciones de intervención.
+
+ESTADOS DE UNA INVESTIGACIÓN
+Abierta: reporte recibido y expediente pendiente de análisis. Puede tener documentos y ensayos ya recopilados; el estado describe el avance del analista, no la cantidad de archivos.
+En investigación: observaciones contrastadas, hipótesis en revisión y datos o comprobaciones todavía pendientes.
+Resuelta: conclusión documentada, evidencia referenciada, acción o justificación de no intervenir, verificación de resultado y responsable de revisión identificados.
+
+CRITERIO DE CIERRE PARA ESTA SIMULACIÓN
+1. Describir el problema observado, separándolo de su posible causa.
+2. Comparar datos bajo condiciones equivalentes y conservar unidades.
+3. Citar nombre del documento y sección o registro que sostiene cada conclusión.
+4. Explicar qué se corrigió en la simulación o por qué no se necesitó una intervención.
+5. Comparar el resultado con el criterio de aceptación definido antes de la comprobación.
+6. Documentar límites y responsable de revisión. Una hipótesis plausible sin comprobación permanece En investigación.
+
+En estos ejercicios puedes emplear los ensayos e intervenciones ficticios ya registrados como evidencia. No debes inventar mediciones adicionales para llenar huecos ni realizar acciones sobre un equipo real. Si un dato no existe, anótalo como pendiente.
+
+La aplicación comprueba que la ficha tenga contenido. No juzga automáticamente la validez del diagnóstico ni verifica la identidad del revisor. Para practicar, escribe tu nombre seguido de «revisión de ejercicio». En una empresa real se aplicarían su procedimiento, responsables y autorizaciones.
+
+NOTAS FRENTE A CIERRE
+Las notas conservan la investigación en curso: observación, hipótesis, evidencia a favor, evidencia en contra y siguientes preguntas. La ficha de cierre resume el resultado revisado. Un caso puede reabrirse si aparecen datos que contradicen la conclusión.

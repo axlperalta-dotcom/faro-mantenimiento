@@ -1,0 +1,19 @@
+PLANTA NORTE FICTICIA · BC-205 · REGISTRO DE INTERVENCIÓN Y ENSAYO
+Registro BC205-T01. Todos los hechos son simulados; el lector no debe intervenir un equipo real.
+
+1. INTERVENCIÓN YA REGISTRADA EN LA SIMULACIÓN
+19/09/2026, 09:00. El equipo ficticio de mantenimiento dejó constancia de la sustitución del elemento de F-205 conforme al procedimiento interno del banco. El elemento retirado presentaba acumulación visible de material. No se identificó su composición ni origen.
+No se sustituyó la bomba ni se modificó su velocidad, la apertura de V-205 o el circuito. El análisis debe limitarse a lo que consta en estos registros.
+
+2. COMPROBACIÓN POSTERIOR
+Condiciones de las tres lecturas: 1450 rpm, V-205 100 %, nivel 50 cm y agua 22 °C.
+09:20: caudal 42 L/min; diferencial de filtro 7 kPa; sin aviso de bajo caudal.
+09:30: caudal 43 L/min; diferencial de filtro 8 kPa; sin aviso de bajo caudal.
+09:40: caudal 42 L/min; diferencial de filtro 8 kPa; sin aviso de bajo caudal.
+
+3. LÍMITES
+La serie cubre 20 minutos entre primera y última lectura; cumple la duración definida por las tres lecturas a intervalos de 10 minutos. No demuestra comportamiento durante meses ni identifica el origen del material retenido.
+Se abrió una tarea independiente ficticia para investigar el origen del material y revisar el cumplimiento del programa de mantenimiento. Esa tarea no equivale a afirmar una causa raíz organizativa demostrada.
+
+4. ENTREGA AL ANALISTA
+Redacta la conclusión, cita BC205-B01, BC205-F01 y BC205-T01, calcula cuánto se recuperó el caudal y compara con los criterios de aceptación. Decide si existe evidencia suficiente para cerrar el incidente operativo; explica lo que queda fuera del cierre.

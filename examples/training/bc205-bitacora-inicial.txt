@@ -1,0 +1,18 @@
+PLANTA NORTE FICTICIA · BC-205 · BITÁCORA INICIAL
+Registro BC205-B01. Datos sintéticos. Fecha de las observaciones: 19/09/2026.
+
+1. ANTECEDENTE COMPARABLE
+12/09, 08:00: velocidad 1450 rpm; válvula V-205 100 %; nivel 50 cm; agua 22 °C; caudal 42 L/min; diferencial de filtro 8 kPa.
+
+2. REPORTE DEL TURNO ACTUAL
+19/09, 08:00: mismas condiciones declaradas; caudal 31 L/min; diferencial de filtro 38 kPa; aviso de bajo caudal activo.
+19/09, 08:10: mismas condiciones; caudal 30 L/min; diferencial de filtro 40 kPa; aviso activo.
+No se observó fuga visible en el recorrido de inspección. Esto no sustituye una prueba de estanqueidad.
+La apertura física de V-205 y el nivel del depósito fueron contrastados por el equipo ficticio de operación; no cambiaron durante estas lecturas.
+
+3. HISTORIAL
+F-205 acumula 680 horas desde el último cambio de elemento. El programa ficticio contempla revisión a las 600 horas; no se encontró constancia de esa revisión. El incumplimiento de una fecha por sí solo no demuestra una causa.
+No hay constancia de modificaciones de velocidad entre el antecedente y el reporte actual.
+
+4. ESTADO DEL EXPEDIENTE
+El reporte fue recibido por el analista, que todavía no ha redactado su investigación. Consultar también BC205-F01 y BC205-T01.

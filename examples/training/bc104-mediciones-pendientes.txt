@@ -1,0 +1,18 @@
+PLANTA NORTE FICTICIA · BC-104 · ADENDA DE MEDICIONES
+Registro BC104-M01, 19/09/2026. Datos sintéticos para capacitación.
+
+1. RELACIÓN CON EL REPORTE INICIAL
+El reporte original decía que faltaban valores verificados. Esta adenda se incorpora después del reporte: contiene lecturas nuevas, pero aún no completa una comparación equivalente. El caso sigue En investigación.
+
+2. REGISTROS
+Referencia archivada del 12/09, 10:00: carga 50 %, velocidad 1200 rpm, temperatura de carcasa 42 °C, vibración global RMS 2,0 mm/s. Se indica punto A, pero falta dirección del sensor y banda de medición.
+Lectura del 19/09, 08:10: carga declarada 70 %, velocidad no registrada, temperatura de carcasa 53 °C, vibración global RMS 4,1 mm/s. El operador escribió «cerca del acoplamiento»; no identificó punto ni dirección. Temperatura ambiente no registrada en ninguna serie.
+No hay presión de succión ni caudal del turno actual. El ruido intermitente es un testimonio del operador, no una grabación ni una medición instrumentada.
+
+3. ALCANCE DE LA EVIDENCIA
+Hay diferencias numéricas, pero las condiciones y posiciones no están controladas. No se puede atribuir por sí sola la diferencia a desalineación, cavitación, rodamiento ni otra causa. Ningún documento de este caso establece un límite de aceptación aplicable a estas lecturas.
+
+4. PENDIENTES
+Solicitar una serie comparable con velocidad, carga, temperatura ambiente, punto, dirección y banda de vibración identificados; presión de succión y caudal; historial de intervención; y criterio de aceptación específico de este ejercicio. No existe todavía una intervención ni prueba posterior registrada.
+
+Objetivo del ejercicio: reconocer cuándo la respuesta profesional es pedir evidencia adicional. Mantener el caso En investigación es correcto con este expediente.
